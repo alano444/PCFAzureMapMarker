@@ -8,7 +8,7 @@
       <property-set name="samplePropertySet" display-name-key="Property_Display_Key" description-key="Property_Desc_Key" of-type="SingleLine.Text" usage="bound" required="true" />
       -->
     </data-set>
-    <property name="AzureMapsSubsctiptionKey" display-name-key="AzureMapsSubsctiptionKey_Display_Key" description-key="AzureMapsSubsctiptionKey_Desc_Key" of-type="SingleLine.Text" usage="input" required="true" default-value="y9wui8JuYRdQW3YjhuWRAJkx07dAXjCEZp3L_UWxEbw" />
+    <property name="AzureMapsSubsctiptionKey" display-name-key="AzureMapsSubsctiptionKey_Display_Key" description-key="AzureMapsSubsctiptionKey_Desc_Key" of-type="SingleLine.Text" usage="input" required="true" default-value="YourAzureMapsSubscriptionKey" />
     <property name="primaryFieldName" display-name-key="primaryFieldName_Display_Key" description-key="primaryFieldName_Desc_Key" of-type="SingleLine.Text" usage="input" required="true"  default-value="aux_name"/>
     <property name="latFieldName" display-name-key="latFieldName_Display_Key" description-key="latFieldName_Desc_Key" of-type="SingleLine.Text" usage="input" required="true"  default-value="aux_latitude"/>
     <property name="longFieldName" display-name-key="longFieldName_Display_Key" description-key="longFieldName_Desc_Key" of-type="SingleLine.Text" usage="input" required="true" default-value="aux_longitude"/>
